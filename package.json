@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docs": "^0.3.2-canary.0",
+    "docsify-tools": "^1.0.20"
+  }
+}
